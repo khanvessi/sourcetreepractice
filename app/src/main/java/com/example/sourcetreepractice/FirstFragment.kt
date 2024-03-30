@@ -32,6 +32,8 @@ class FirstFragment : Fragment() {
     private fun m1(){}
     private fun m3(){}
 
+    private fun afterIStashedMethod(){}
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
