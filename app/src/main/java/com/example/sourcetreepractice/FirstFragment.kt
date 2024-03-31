@@ -39,6 +39,8 @@ class FirstFragment : Fragment() {
 
 
     private fun practice4() {}
+
+    private fun practice4M2(){}
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
