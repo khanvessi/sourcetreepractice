@@ -38,6 +38,7 @@ class FirstFragment : Fragment() {
     private fun afterIStashedMethod(){}
 
     private fun methodForRebase(){}
+    private fun methodForRebas2(){}
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
