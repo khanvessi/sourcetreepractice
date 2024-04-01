@@ -50,6 +50,11 @@ class FirstFragment : Fragment() {
     private fun commit5(){}
 
 
+    private fun commit1(){}
+
+    private fun commit5(){}
+
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
