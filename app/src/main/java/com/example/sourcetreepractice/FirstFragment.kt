@@ -34,6 +34,15 @@ class FirstFragment : Fragment() {
 
     private fun afterIStashedMethod(){}
 
+
+    private fun methodForRebase(){}
+   
+
+    private fun methodForCherryPicking1(){}
+
+    private fun methodToBeStashed(){}
+
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
