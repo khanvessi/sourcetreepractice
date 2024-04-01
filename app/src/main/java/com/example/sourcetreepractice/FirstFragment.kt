@@ -32,17 +32,36 @@ class FirstFragment : Fragment() {
     private fun m1(){}
     private fun m3(){}
 
-    
+
     private fun stashedMethod(){}
 
     private fun afterIStashedMethod(){}
+
+    private fun practice3(){}
+
+    private fun practice3_m2(){}
+
 
     private fun methodForRebase(){}
    
 
     private fun methodForCherryPicking1(){}
 
+    private fun methodToBeStashed(){}
 
+    private fun commit1(){}
+
+    private fun commit5(){}
+
+
+    private fun commit1(){}
+
+    private fun commit5(){}
+
+
+    private fun practice4() {}
+
+    private fun practice4M2(){}
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
