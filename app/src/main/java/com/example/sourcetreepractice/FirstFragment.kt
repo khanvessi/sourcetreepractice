@@ -45,6 +45,8 @@ class FirstFragment : Fragment() {
 
     private fun methodToBeStashed(){}
 
+    private fun commit1(){}
+
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
