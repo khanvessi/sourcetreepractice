@@ -32,10 +32,11 @@ class FirstFragment : Fragment() {
     private fun m1(){}
     private fun m3(){}
 
-    
+
     private fun stashedMethod(){}
 
     private fun afterIStashedMethod(){}
+
 
     private fun methodForRebase(){}
    
